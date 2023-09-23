@@ -1,5 +1,5 @@
 body {
-    font-family: 'Calibri', sans-serif;
+    font-family: 'Calibri-bold', sans-serif;
     padding-top: 54px;
     color: #3b3d3f;
     background-color: azure;
@@ -37,7 +37,7 @@ h2 {
     text-transform: uppercase;
     font-weight: 500;
     font-family: 'Calibri Light', sans-serif;
-    font-size: 1rem
+    font-size: 0.9rem
 }
 
 .list-social-icons a {
