@@ -55,12 +55,11 @@ h2 {
 .img-top{
     width: 10rem;
     margin-top: 2rem;
-    margin-right: 2rem;
-    float: right;
 }
 
 .img-about{
     height: 200px;
+    text-align: center;
 }
 
 .list-icons .list-inline-item i:hover {
