@@ -52,6 +52,14 @@ h2 {
     font-size: 3rem
 }
 
+.projects-li{
+    margin: 0px 15px 15px 0px;
+    display: inline-block;
+    padding: 12px;
+    background-color: #e7eaed;
+    border-radius: 1%;
+}
+
 .img-top{
     width: 10rem;
     margin-top: 2rem;
@@ -60,6 +68,23 @@ h2 {
 .img-about{
     height: 200px;
     text-align: center;
+}
+
+.img-project{
+    margin: 7px 0px;
+    border: #100a4c24 ;
+    border-style: solid;
+    border-radius: 1%;
+    height: 300px;
+}
+
+.btn-primary{
+    border-color: #0f0a4c;
+    background-color: #0f0a4c;
+}
+
+.btn-primary:hover{
+    background-color: #0e76a8;
 }
 
 .list-icons .list-inline-item i:hover {
