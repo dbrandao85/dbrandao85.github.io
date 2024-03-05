@@ -10,8 +10,10 @@ const traduction = {
         'text-mvc' : 'Arquitetura MVC',
         'text-scrum' : 'Desenvolvimento Ágil e Scrum',
         'text-project-content' : 'Esse são alguns projetos pessoais de estudos:',
+        'text-project-content-commercial' : 'Esses são projetos comerciais:',
         'text-emuladortc' : 'Emulador para Terminal de Consulta da Gertec',
         'text-gamesearch' : 'Pesquisar jogo por gênero, consumindo a API FreeToGame',
+        'text-xls2betha' : 'Integra uma planilha no formato xls para o sistema BethaRH que faz leitura de um txt',
         'text-education-date' : 'Julho 2020',
         'text-education-level' : 'Bacharel em Ciências da Computação'
     },
@@ -26,8 +28,10 @@ const traduction = {
         'text-mvc' : 'MVC Architecture',
         'text-scrum' : 'Agile Development & Scrum',
         'text-project-content' : 'I have some personal projects, all then for study:',
+        'text-project-content-commercial' : 'Some commercial projects:',
         'text-emuladortc' : 'Emulator for Consult Terminal of Gertec',
         'text-gamesearch' : 'Search a game, using the API FreeToGame',
+        'text-xls2betha' : 'Integrate an xls format spreadsheet into the BethaRH system that reads a txt file',
         'text-education-date' : 'July 2020',
         'text-education-level' : 'Bachelor in Science of Computer'
     }

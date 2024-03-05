@@ -99,6 +99,10 @@ h2 {
     color: #0e76a8;
 }
 
+.devtools{
+    font-size: smaller;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 600;
     text-transform: uppercase
