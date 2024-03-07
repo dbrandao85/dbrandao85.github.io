@@ -13,6 +13,7 @@ const traduction = {
         'text-project-content-commercial' : 'Esses são projetos comerciais:',
         'text-emuladortc' : 'Emulador para Terminal de Consulta da Gertec',
         'text-gamesearch' : 'Pesquisar jogo por gênero, consumindo a API FreeToGame',
+        'text-meuip' : 'Verifica todas as interfaces de rede e exibe os IPs configurados',
         'text-xls2betha' : 'Integra uma planilha no formato xls para o sistema BethaRH que faz leitura de um txt',
         'text-education-date' : 'Julho 2020',
         'text-education-level' : 'Bacharel em Ciências da Computação'
@@ -31,6 +32,7 @@ const traduction = {
         'text-project-content-commercial' : 'Some commercial projects:',
         'text-emuladortc' : 'Emulator for Consult Terminal of Gertec',
         'text-gamesearch' : 'Search a game, using the API FreeToGame',
+        'text-meuip' : 'Show all IP configured',
         'text-xls2betha' : 'Integrate an xls format spreadsheet into the BethaRH system that reads a txt file',
         'text-education-date' : 'July 2020',
         'text-education-level' : 'Bachelor in Science of Computer'

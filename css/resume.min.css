@@ -55,6 +55,7 @@ h2 {
 .projects-li{
     margin: 0px 15px 15px 0px;
     display: inline-block;
+    width: 350px;
     padding: 12px;
     background-color: #e7eaed;
     border-radius: 1%;
@@ -75,7 +76,8 @@ h2 {
     border: #100a4c24 ;
     border-style: solid;
     border-radius: 1%;
-    height: 300px;
+    width: 325px;
+    height: auto;
 }
 
 .btn-primary{
